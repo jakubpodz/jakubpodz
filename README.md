@@ -1,26 +1,15 @@
-###HI
+# 💫 About Me:
+🔭 Msc Financial Technology at Exeter University 🌐 Data Science | Blockchain<br><br>🔗 Welcome! I'm an MSc Financial Technology student blending expertise in data science and blockchain development to create secure, transparent, and data-driven solutions. With a solid background in advanced data analysis techniques and porgramming languages such as: Pyhton, JavaScript (React.js, Web3.js) and Solidity. I aim to drive innovation between technology and finance<br><br>💡 Recent Projects:<br><br>Crowdfunding Smart Contracts Service 🎉 | Led a cross-functional team in a hackathon, building a smart contract-based crowdfunding service that prioritizes security and transparency.<br><br>Real Estate Escrow System 🏠 | Developed Solidity smart contracts for tokenized real estate and escrow, integrating Web3.js and Node.js for smooth blockchain interactions.<br><br>Economic Research Analysis 📊 | Explored the dynamics of the CPI and unemployment through time series econometrics.<br><br>📈 Technical Skills:<br><br>-Languages & Frameworks: Python (Pandas, Scikit), JavaScript, Solidity, React.js<br><br>-Blockchain Tools: Hardhat, MetaMask, Infura, OpenZeppelin 🛠️<br><br>-Data Analysis: Econometric & statistical analysis with Python, machine learning for predictive insights 📉<br><br>-Financial Analysis: Bloomberg Terminal, financial modeling, and econometric methods 💹<br><br>✨ I'm driven to innovate and open to collaborations in fintech, blockchain, and data science!
 
-🔭 Msc Financial Technology at Exeter University
-🌐 Data Science | Blockchain
 
-🔗 Welcome! I'm an MSc Financial Technology student blending expertise in data science and blockchain development to create secure, transparent, and data-driven solutions. With a solid background in advanced data analysis techniques and porgramming languages such as: Pyhton, JavaScript (React.js, Web3.js) and Solidity. I aim to drive innovation between technology and finance
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jakubpodz&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jakubpodz&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jakubpodz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-💡 Recent Projects:
+---
+[![](https://visitcount.itsvg.in/api?id=jakubpodz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Crowdfunding Smart Contracts Service 🎉 | Led a cross-functional team in a hackathon, building a smart contract-based crowdfunding service that prioritizes security and transparency.
-
-Real Estate Escrow System 🏠 | Developed Solidity smart contracts for tokenized real estate and escrow, integrating Web3.js and Node.js for smooth blockchain interactions.
-
-Economic Research Analysis 📊 | Explored the dynamics of the CPI and unemployment through time series econometrics.
-
-📈 Technical Skills:
-
--Languages & Frameworks: Python (Pandas, Scikit), JavaScript, Solidity, React.js
-
--Blockchain Tools: Hardhat, MetaMask, Infura, OpenZeppelin 🛠️
-
--Data Analysis: Econometric & statistical analysis with Python, machine learning for predictive insights 📉
-
--Financial Analysis: Bloomberg Terminal, financial modeling, and econometric methods 💹
-
-✨ I'm driven to innovate and open to collaborations in fintech, blockchain, and data science!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
